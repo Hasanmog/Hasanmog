@@ -7,6 +7,6 @@
 - 💡 Eager to Contribute to AI's Evolution
 
 ## 🌟 My Interests
-- 🤖 Machine Learning, Deep Learning, Computer Vision
+- 🤖 Machine Learning, Deep Learning, Computer Vision , and Deep Reinforcement Learning
 - 🛠️ Working on cool AI projects and open-source contributions
 - 📚 Avid reader and lifelong learner
