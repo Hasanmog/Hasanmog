@@ -1,7 +1,7 @@
 # 👋 Hi, I'm a Passionate Learner and AI Enthusiast! 🤖
 
 ## 🚀 About Me
-- 🧠 AI Researcher at @geoaigroup
+- 🧠 AI Researcher at [GEOAI Group](https://geogroup.ai/)
 - 🎓 Communication and Electronics Engineer
 - 🌱 Constantly exploring new technologies and innovations in AI
 - 💡 Eager to Contribute to AI's Evolution
