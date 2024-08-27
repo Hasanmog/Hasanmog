@@ -10,3 +10,6 @@
 - 🤖 Machine Learning, Deep Learning, Computer Vision , and Deep Reinforcement Learning
 - 🛠️ Working on cool AI projects and open-source contributions
 - 📚 Avid reader and lifelong learner
+
+# Contact
+You can reach out via email **hmoughnieh2000@gmail.com**
