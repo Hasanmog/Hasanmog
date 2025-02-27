@@ -1,15 +1,30 @@
-# 👋 Hi, I'm a Passionate Learner and AI Enthusiast! 🤖
+# 👋 Hi, I'm Hasan Moughnieh! 🤖  
+## 🚀 AI Enthusiast | Researcher | Developer  
 
-## 🚀 About Me
-- 🧠 AI Researcher at [GEOAI Group](https://geogroup.ai/)
-- 🎓 Communication and Electronics Engineer
-- 🌱 Constantly exploring new technologies and innovations in AI
-- 💡 Eager to Contribute to AI's Evolution
+### 🏆 About Me  
+- 🎓 **Master’s Student** in Electrical and Computer Engineering (AI & ML) at the **American University of Beirut (AUB)**  
+- 🧠 **AI Researcher** at [GEOAI Group](https://geogroup.ai/)  
+- ⚡ **Passionate about** Machine Learning, Deep Learning, and Computer Vision  
+- 🎮 **Lifelong Gamer** with a dream of becoming an AI game developer  
+- 🌱 Always exploring new technologies and contributing to AI's evolution  
 
-## 🌟 My Interests
-- 🤖 Machine Learning, Deep Learning, Computer Vision , and Deep Reinforcement Learning
-- 🛠️ Working on cool AI projects and open-source contributions
-- 📚 Avid reader and lifelong learner
+---
 
-# Contact
-You can reach out via email **hmoughnieh2000@gmail.com**
+### 🛠️ What I’m Working On  
+- **AI Projects**: Developing models for vision, multimodal learning, and real-world AI applications  
+- **Open-Source Contributions**: Sharing knowledge and building with the community  
+- **Bridging AI & Gaming**: Exploring ways AI can enhance game development  
+
+---
+
+### 📫 Contact Me  
+📧 Email: hmoughnieh2000@gmail.com 
+
+💼 LinkedIn: [hasan-moughnieh](www.linkedin.com/in/hasan-moughnieh)
+
+🐦 Twitter/X: [@MoughniehHasan](https://x.com/MoughniehHasan) 
+
+---
+
+🚀 **Let’s build the future of AI together!** 🤖✨
+
