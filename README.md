@@ -4,8 +4,8 @@
 ### 👋 Hi there, I'm Hasan Moughnieh
 
 - 🎓 **Master’s Student** in Electrical and Computer Engineering (AI & ML) at the **American University of Beirut (AUB)**
-- 🤖 **Researcher** at the **Vision and Robotics Lab** at AUB  
-- 🧠 Part time  **Computer Vision Researcher** at [GEOAI Group](https://geogroup.ai/)  
+- 🤖 **Researcher** at the [Vision and Robotics Lab](https://sites.aub.edu.lb/vrlab/) at AUB
+- 🧠 Part time  **Computer Vision Researcher** at [GEOAI Group](https://geogroup.ai/) 
 - ⚡ **Passionate about** Machine Learning, Deep Learning, and Computer Vision  
 - 🎮 **Lifelong Gamer** with a dream of becoming an AI game developer  
 - 🌱 Always exploring new technologies and contributing to AI's evolution  
